@@ -1,0 +1,325 @@
+C:\Users\HOME\source\repos\Belge Koruyucu\Belge Koruyucu\bin\Debug\Belge Koruyucu.exe.config
+C:\Users\HOME\source\repos\Belge Koruyucu\Belge Koruyucu\bin\Debug\Belge Koruyucu.exe
+C:\Users\HOME\source\repos\Belge Koruyucu\Belge Koruyucu\bin\Debug\Belge Koruyucu.pdb
+C:\Users\HOME\source\repos\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.csproj.AssemblyReference.cache
+C:\Users\HOME\source\repos\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.csproj.SuggestedBindingRedirects.cache
+C:\Users\HOME\source\repos\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Properties.Resources.resources
+C:\Users\HOME\source\repos\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.csproj.GenerateResource.cache
+C:\Users\HOME\source\repos\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.exe
+C:\Users\HOME\source\repos\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.pdb
+C:\Users\HOME\source\repos\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Müşteri_Bilgileri.resources
+C:\Users\HOME\source\repos\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Turlar.resources
+C:\Users\HOME\source\repos\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.TrinsyCa.resources
+C:\Users\HOME\source\repos\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Transferler.resources
+C:\Users\HOME\source\repos\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Create.resources
+C:\Users\HOME\source\repos\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Müşteri_Ekleme.resources
+C:\Users\HOME\source\repos\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Transfer_Ekleme.resources
+C:\Users\HOME\source\repos\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Kullanıcı_Girişi.resources
+C:\Users\HOME\source\repos\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Tur_Ekleme.resources
+C:\Users\HOME\source\repos\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.BelgeKoruyucu.resources
+C:\Users\HOME\source\repos\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Resource1.resources
+C:\Users\HOME\source\repos\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Gelir_Gider.resources
+C:\Users\HOME\source\repos\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Zamanlayıcı.resources
+C:\Users\HOME\source\repos\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Müşteri_Bilgileri_Düzenle.resources
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Belge Koruyucu.exe.config
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Belge Koruyucu.exe
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Belge Koruyucu.pdb
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Create.resources
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.BelgeKoruyucu.resources
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Kullanıcı_Girişi.resources
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Müşteri_Bilgileri.resources
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Müşteri_Ekleme.resources
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Properties.Resources.resources
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Resource1.resources
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Transfer_Ekleme.resources
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Transferler.resources
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.TrinsyCa.resources
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Tur_Ekleme.resources
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Turlar.resources
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.csproj.GenerateResource.cache
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.exe
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.pdb
+E:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Belge Koruyucu.exe.config
+E:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Belge Koruyucu.exe
+E:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Belge Koruyucu.pdb
+E:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.csproj.AssemblyReference.cache
+E:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Create.resources
+E:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.BelgeKoruyucu.resources
+E:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Gelir_Gider.resources
+E:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Kullanıcı_Girişi.resources
+E:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Müşteri_Bilgileri.resources
+E:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Müşteri_Ekleme.resources
+E:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Properties.Resources.resources
+E:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Resource1.resources
+E:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Transfer_Ekleme.resources
+E:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Transferler.resources
+E:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.TrinsyCa.resources
+E:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Tur_Ekleme.resources
+E:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Turlar.resources
+E:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Zamanlayıcı.resources
+E:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.csproj.GenerateResource.cache
+E:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.csproj.CoreCompileInputs.cache
+E:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.exe
+E:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.pdb
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Şifremi_Unuttum.resources
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Kullanıcı_Ayarları.resources
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.csproj.AssemblyReference.cache
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.csproj.CoreCompileInputs.cache
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.Licensing.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.csproj.CopyComplete
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Belge Koruyucu.exe.config
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Belge Koruyucu.exe
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Belge Koruyucu.pdb
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.Licensing.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.csprojAssemblyReference.cache
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Create.resources
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.BelgeKoruyucu.resources
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Gelir_Gider.resources
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Kullanıcı_Ayarları.resources
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Kullanıcı_Girişi.resources
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Müşteri_Bilgileri.resources
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Müşteri_Ekleme.resources
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Properties.Resources.resources
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Resource1.resources
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Transfer_Ekleme.resources
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Transferler.resources
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.TrinsyCa.resources
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Tur_Ekleme.resources
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Turlar.resources
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Kronometre.resources
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Şifremi_Unuttum.resources
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.csproj.GenerateResource.cache
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.csproj.CopyComplete
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.exe
+I:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.pdb
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.csproj.SuggestedBindingRedirects.cache
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Zamanlayıcı.resources
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Müşteri_Kartviziti.resources
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Gelir_Gider_Kalan.resources
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Dosyalar\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Belge Koruyucu.exe.config
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Belge Koruyucu.exe
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Belge Koruyucu.pdb
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.Licensing.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.csproj.AssemblyReference.cache
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.csproj.SuggestedBindingRedirects.cache
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Create.resources
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.BelgeKoruyucu.resources
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Gelir_Gider_Kalan.resources
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Kullanıcı_Ayarları.resources
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Kullanıcı_Girişi.resources
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Müşteri_Bilgileri.resources
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Müşteri_Ekleme.resources
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Müşteri_Kartviziti.resources
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Properties.Resources.resources
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Resource1.resources
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Transfer_Ekleme.resources
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Transferler.resources
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.TrinsyCa.resources
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Tur_Ekleme.resources
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Turlar.resources
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Zamanlayıcı.resources
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge_Koruyucu.Şifremi_Unuttum.resources
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.csproj.GenerateResource.cache
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.csproj.CoreCompileInputs.cache
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.csproj.CopyComplete
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.exe
+D:\Dosyalar\Ders\Kod Cart Curt\Belge Koruyucu\Belge Koruyucu\obj\Debug\Belge Koruyucu.pdb
